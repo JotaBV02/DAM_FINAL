@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DAM_Examen_Final_BRAVO</string>
+    <string name="Correo_Electronico">CorreoElectronico</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Instagram">Instagram</string>
+    <string name="OR">OR</string>
+    <string name="LogWithFacebook">Log in with Facebook</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="Password">Password</string>
+    <string name="Phonenumber">Phone number, username or email</string>
+    <string name="Pass">Password</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_user_profile">Mi Perfil</string>
+</resources>
